@@ -1,0 +1,7 @@
+#QQ邮箱发送人 
+qq.send.email=12345@qq.com
+#密码/授权码 
+qq.send.password=123456
+
+#QQ邮箱接收人(多个人逗号隔开)
+qq.recv.email=123456@qq.com
